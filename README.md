@@ -2,7 +2,8 @@
 
 Welcome to UnityMazeSolver, an interactive maze-solving project developed using Unity and powered by the efficient Flood Fill algorithm written in C#. This project showcases the synergy between game development and intelligent pathfinding, offering a dynamic visual representation of maze navigation.
 
-![Uploading Screen Shot 2023-08-23 at 4.18.40 AM.png…]()
+<img width="568" alt="Screen Shot 2023-08-23 at 4 18 40 AM" src="https://github.com/Almightyoo/MazeSolver/assets/117665293/2407d30d-ce41-49c7-927a-0e0748361958">
+
 
 
 ## Key Features
