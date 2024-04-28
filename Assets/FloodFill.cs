@@ -307,8 +307,6 @@ public class FloodArray : MonoBehaviour
             player.position = Vector3.MoveTowards(player.position, targetPosition, speed * Time.deltaTime);
             yield return null;
         }
-
-        // Only set the trigger once the movement is fully complete
         updateWallTrigger = true;
 
         isMoving = false;
